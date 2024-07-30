@@ -1,2 +1,5 @@
 c1-new
+<<<<<<< HEAD
 c1-modified
+=======
+c2
