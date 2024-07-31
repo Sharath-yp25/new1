@@ -1,5 +1,7 @@
 c1-new
-<<<<<<< HEAD
+<<<<<<< 
 c1-modified
 =======
 c2
+=======
+>>>>>>> parent of aa895a5 (modified c1 file in master)
